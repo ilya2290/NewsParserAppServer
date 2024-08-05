@@ -2,7 +2,6 @@
 NewsParserAppServer
 
 # News Parser API
-
 ## Description
 
 **News Parser API** is a RESTful service that provides endpoints to manage news articles. It allows for creating, updating, deleting, and retrieving news by date. The application also uses a scheduler to periodically parse news every 20 minutes.
